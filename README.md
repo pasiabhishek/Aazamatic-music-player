@@ -2,149 +2,174 @@
 
 # 🎵 Aazamatic Music Player
 
-*A clean, responsive, and lightweight web music player built with Vanilla JavaScript.*
+### A Lightweight Web-Based Music Player Built with Vanilla JavaScript
 
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-2ea44f?style=for-the-badge)](https://pasi-abhishek.netlify.app/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)]()
+Aazamatic Music Player is a responsive browser-based music player that delivers a simple and intuitive listening experience using the power of **HTML5**, **CSS3**, and **Vanilla JavaScript**.
 
-*A frontend project demonstrating the HTML5 Audio API, dynamic DOM manipulation, and responsive user interface design.*
+<p align="center">
+  <a href="https://pasi-abhishek.netlify.app">
+    <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-2ea44f?style=for-the-badge" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-Audio_API-orange?style=flat-square"/>
+</p>
 
 </div>
 
 ---
 
-## 📌 Overview
+## Overview
 
-**Aazamatic Music Player** is a browser-based music player developed using **HTML, CSS, and Vanilla JavaScript**.
+**Aazamatic Music Player** is a frontend music player that demonstrates how modern browser-based audio players can be built without external frameworks or libraries.
 
-The project was built to explore how modern music players work internally by implementing core playback functionality without relying on external libraries or frameworks.
+The application uses the **HTML5 Audio API** and dynamic DOM manipulation to provide a smooth music playback experience with playlist management, playback controls, and a responsive user interface.
 
-Users can browse a playlist, switch between tracks, control playback, and enjoy a responsive interface that works across desktop and mobile devices.
-
----
-
-## ✨ Features
-
-- Interactive music playlist
-- Play & Pause controls
-- Previous / Next navigation
-- Dynamic album artwork
-- Song title & artist information
-- Responsive layout
-- Clean and minimal interface
-- Lightweight architecture
-- Built using pure JavaScript
+The project was developed to strengthen frontend development skills while exploring real-world JavaScript concepts through a practical application.
 
 ---
 
-## 🖥️ Preview
+## Features
 
-> Add screenshots or GIFs here
-
-| Desktop | Mobile |
-|----------|---------|
-| `Screenshot` | `Screenshot` |
+- Interactive Playlist
+- Play & Pause Controls
+- Previous & Next Navigation
+- Dynamic Album Artwork
+- Song Title & Artist Information
+- Responsive User Interface
+- Lightweight Architecture
+- HTML5 Audio API Integration
+- Cross-Browser Compatibility
 
 ---
 
-## 🏗️ Project Structure
+## Technology Stack
 
-```
+| Category | Technology |
+|----------|------------|
+| Structure | HTML5 |
+| Styling | CSS3 |
+| Programming | JavaScript (ES6) |
+| Audio | HTML5 Audio API |
+| Icons | Font Awesome |
+
+---
+
+## Project Structure
+
+```text
 Aazamatic-Music-Player/
+│
+├── assets/
+│   ├── images/
+│   └── music/
 │
 ├── index.html
 ├── style.css
 ├── script.js
-├── README.md
-└── assets/
+└── README.md
 ```
 
 ---
 
-## ⚙️ Technologies Used
+## Getting Started
 
-| Technology | Purpose |
-|------------|---------|
-| HTML5 | Page Structure |
-| CSS3 | Styling & Responsive Layout |
-| JavaScript (ES6) | Application Logic |
-| HTML5 Audio API | Audio Playback |
-| Font Awesome | Icons |
-
----
-
-## 🚀 Getting Started
-
-Clone the repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/pasiabhishek/Aazamatic-music-player.git
 ```
 
-Navigate into the project
+### Navigate to the Project
 
 ```bash
 cd Aazamatic-music-player
 ```
 
-Run the application by opening **index.html** in your preferred web browser.
+### Run the Application
 
-No installation or build process is required.
+Open **index.html** in your preferred web browser.
+
+No installation, package manager, or build process is required.
 
 ---
 
-## 📚 Key Learning Outcomes
+## Learning Objectives
 
-This project demonstrates practical understanding of:
+This project demonstrates practical implementation of:
 
 - DOM Manipulation
 - Event Handling
 - HTML5 Audio API
+- Dynamic UI Rendering
 - Responsive Web Design
-- Dynamic UI Updates
-- JavaScript Application Logic
+- Frontend Application Structure
+- JavaScript State Management
 
 ---
 
-## 🔮 Future Enhancements
+## Planned Enhancements
 
-- Music Progress Bar
+- Progress & Seek Bar
 - Volume Control
-- Shuffle & Repeat
-- Keyboard Shortcuts
-- Theme Switcher
-- Local Music Upload
-- Playlist Search
+- Shuffle Playlist
+- Repeat Mode
 - Auto Play Next Track
+- Keyboard Shortcuts
+- Playlist Search
+- Theme Switcher
+- Local Music Library
 - Equalizer Animation
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Pasi Abhishek**
 
-Frontend Developer | Web Designer | Creative Technologist
+Frontend Developer
 
-**Portfolio:**  
-🌐 https://pasi-abhishek.netlify.app/
+🌐 Portfolio: https://pasi-abhishek.netlify.app/
+
+GitHub: https://github.com/pasiabhishek
 
 ---
 
-## 📄 License
+## Copyright & Usage
 
-This project is licensed under the **MIT License**.
+**Copyright © 2025 Pasi Abhishek**
 
-Feel free to use, modify, and distribute this project for educational or personal purposes.
+**All Rights Reserved.**
+
+This project and its source code are the intellectual property of **Pasi Abhishek**.
+
+This repository is made publicly available **for viewing and portfolio purposes only**.
+
+Without prior written permission from the copyright holder, you may **NOT**:
+
+- Copy or reproduce any part of the source code
+- Modify or create derivative works
+- Redistribute or republish this project
+- Use the source code in personal, academic, or commercial projects
+- Sell, sublicense, or commercially exploit this software
+
+Unauthorized use, reproduction, or distribution of this software, in whole or in part, may result in legal action.
+
+For licensing or commercial inquiries, please contact the author.
 
 ---
 
 <div align="center">
 
-### ⭐ If you found this project helpful, consider giving it a star!
+### © 2025 Pasi Abhishek
 
-Made with ❤️ by **Pasi Abhishek**
+**All Rights Reserved**
+
+Developed as an original software project.
 
 </div>
+````
