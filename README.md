@@ -1,9 +1,3 @@
-[# master-music-player
-Author : Pasi Abhishek <br>
-Project : Aazamatic Music Player<br>
-year : March 2025<br>
-
-
 ````markdown
 # 🎧 Aazamatic Music Player
 
@@ -202,4 +196,5 @@ It motivates me to keep building, learning, and sharing more open-source project
 
 </p>
 ````
+](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor)
 ](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor)
