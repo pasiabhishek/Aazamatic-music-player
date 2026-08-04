@@ -6,6 +6,8 @@
 
 Aazamatic Music Player is a responsive browser-based music player that delivers a simple and intuitive listening experience using the power of **HTML5**, **CSS3**, and **Vanilla JavaScript**.
 
+
+
 <p align="center">
   <a href="https://pasi-abhishek.netlify.app">
     <img src="https://img.shields.io/badge/🌐_Live_Demo-Visit_Website-2ea44f?style=for-the-badge" />
